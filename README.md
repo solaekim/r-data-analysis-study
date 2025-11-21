@@ -1,7 +1,7 @@
 # R Data Analysis Learning
 
 ## Overview
-This repository contains updated learning materials for R data analysis.
+This repository showcases learning materials and projects developed as part of my self-directed study in data analysis.
 
 ## Contents
 - Example datasets
