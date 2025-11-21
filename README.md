@@ -1,5 +1,5 @@
 # R Data Analysis Learning
-This repository presents materials and projects developed through my self-directed study in data analysis using R programming.
+This repository contains materials and projects developed through my self-directed study of data analysis and visualization using R.
 
 ## Contents
 - Sample data for practice analyses
