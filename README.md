@@ -4,7 +4,7 @@ This repository showcases learning materials and projects developed as part of m
 ## Contents
 - Sample data for practice analyses
 - R scripts demonstrating analysis and visualization techniques
-- learning notes and exercises to reinforce concepts
+- Learning notes and exercises to reinforce concepts
 
 ## Projects
 Practice 1: Analysis of Foreign Arrivals to Korea During Early COVID-19 in 2020
