@@ -6,7 +6,7 @@
 
 install.packages("reshape2")
 library(readxl)
-entrance_xls <- read_excel("C:/Rstudy/entrance_exam.xlsX")
+entrance_xls <- read_excel("C:/Rstudy/p1_data.xlsX")
 
 str(entrance_xls)
 head(entrance_xls)
@@ -83,3 +83,4 @@ ggplot(top5_melt, aes(x = mon, y = value, fill = country)) +
 
 ggplot(top5_melt, aes(x = mon, y = value, fill = country)) +
   geom_bar(stat = "identity", position = "stack")
+
